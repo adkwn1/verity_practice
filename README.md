@@ -8,7 +8,7 @@ A simple Streamlit app to allow Guardians practice the Verity encounter from Des
 To run the project in a local web browser, clone the repository ensuring the files are in the correct directory structure:
 - Directory: project_folder/.streamlit/config.toml
 - Directory: project_folder/images/[.png files]
-- Python file: project_folder/verity.py (top level)
+- Python file: project_folder/verity.py
 
 The config.toml specifies the server address and port number to run the web app locally via streamlit. In command prompt or terminal, navigate to the cloned directory and run the following command:
 
