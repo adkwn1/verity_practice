@@ -17,8 +17,9 @@ The config.toml specifies the server address and port number to run the web app 
 Open a web browser and navigate to http://localhost:10000 (or other port if changed in .toml file) to interact with the project application.
 
 ## Usage - Render
-- TBD
-
+- Hosted on Render: https://verity-practice.onrender.com/
+- Free service... be patient :)
+  
 ## Required Packages
 - random
 - streamlit
